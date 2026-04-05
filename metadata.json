@@ -1,0 +1,8 @@
+{
+  "name": "Veritas: AI Fact-Checker",
+  "description": "Advanced AI-powered platform to detect fake news, analyze bias, and verify claims using Gemini's multimodal analysis and search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
